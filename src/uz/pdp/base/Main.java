@@ -5,7 +5,7 @@ import uz.pdp.online.model.User;
 import java.util.Arrays;
 import java.util.Scanner;
 
-//2-vazifaga qo'shimcha tarzda base package ichida Main classini va unda main methodini yarating.
+//1-vazifaga qo'shimcha tarzda base package ichida Main classini va unda main methodini yarating.
 // 5 ta userdan  iborat User toifasidagi massiv yarating va massiv elementlarini ekranga chiqazing.
 
 public class Main {
